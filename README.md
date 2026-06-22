@@ -1,6 +1,6 @@
 # produck-oss
 
-This repository is reserved for open-source Produck experiments, tools, and resources.
+This repository is intended for open-source Produck experiments, tools, and resources.
 
 Produck enables apps to capture in-context feedback from their users and rapidly ship features and fixes that improve product-market fit.
 
